@@ -1,0 +1,89 @@
+body {
+    background-color: #F8EEEE;
+    color: #333333;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+header {
+    background-color: #C98F9B;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.hero {
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.hero h2 {
+    color: #C98F9B;
+}
+
+button {
+    background-color: #C98F9B;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+}
+
+section {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.routine-container {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.routine-step {
+    background-color: white;
+    padding: 20px;
+    width: 200px;
+}
+
+footer {
+    background-color: #C98F9B;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+What we're doing here
+
+The main color is:
+
+#C98F9B
+
+That's our old pink.
+
+We're also using a very light pink:
+
+#F8EEEE
+
+for the page background.
+
+And white for the boxes, so the page doesn't become entirely pink.
+
+Save with Ctrl + S and check your Live Server.
+
+If the colors look good to you, we'll keep them and move on to styling the products.
+
+Ciao.dev
+
+Outgrown No Code? Describe Your App
+
+Ciao builds it as a real React and TypeScript app you own, with QA built in. Start building.
+
+Ad
+More options
